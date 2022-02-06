@@ -1,0 +1,2 @@
+import intrepreter
+intrepreter.Interpret()
