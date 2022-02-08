@@ -1,7 +1,7 @@
 import global_
 objects = global_.objects
 class Interpret():
-
+    
     def __init__(self) -> None:
         self.currentline = 0
 
